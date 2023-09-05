@@ -1,2 +1,2 @@
-# itas255-students
-Student downloads for ITAS 255 course
+# ITAS 255 - Internet Development I
+Student downloads for ITAS 255 course. This repo contains starting examples for the ITAS 255 course.
