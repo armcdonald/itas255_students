@@ -1,0 +1,483 @@
+[
+    {
+        "title": "Grey Zone, The",
+        "genre": [
+            "Drama",
+            "Suspense"
+        ],
+        "year": "2000/06/22",
+        "director": "Katy Hogben",
+        "revenue": "$453206122.61"
+    },
+    {
+        "title": "Dracula: Pages from a Virgin's Diary",
+        "genre": [
+            "Mystery",
+            "Horror"
+        ],
+        "year": "2002/05/08",
+        "director": "Guthry Littrell",
+        "revenue": "$985643745.00"
+    },
+    {
+        "title": "Thieves (Voleurs, Les)",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Romance"
+        ],
+        "year": "2015/04/23",
+        "director": "Vally Ilyin",
+        "revenue": "$178403080.22"
+    },
+    {
+        "title": "The Fox and the Hound 2",
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "year": "2007/06/29",
+        "director": "Benn Pendrigh",
+        "revenue": "$130655466.38"
+    },
+    {
+        "title": "Anacondas: The Hunt for the Blood Orchid",
+        "genre": [
+            "Adventure",
+            "Drama",
+            "Horror",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "year": "2015/04/07",
+        "director": "Bryan Fromant",
+        "revenue": "$881221615.76"
+    },
+    {
+        "title": "Porgy and Bess",
+        "genre": [
+            "Drama",
+            "Musical",
+            "Romance"
+        ],
+        "year": "1990/12/06",
+        "director": "Loralee Skitt",
+        "revenue": "$946894971.15"
+    },
+    {
+        "title": "China Syndrome, The",
+        "genre": [
+            "Drama",
+            "Thriller"
+        ],
+        "year": "2003/02/09",
+        "director": "Enriqueta Ashness",
+        "revenue": "$388793911.03"
+    },
+    {
+        "title": "West (Occident)",
+        "genre": "Comedy",
+        "year": "2010/11/03",
+        "director": "Bradley Souch",
+        "revenue": "$525945991.97"
+    },
+    {
+        "title": "Tevye",
+        "genre": "Drama",
+        "year": "1998/10/01",
+        "director": "Gage Langman",
+        "revenue": "$276326935.09"
+    },
+    {
+        "title": "Warning from Space (Uchûjin Tôkyô ni arawaru)",
+        "genre": "Sci-Fi",
+        "year": "1965/09/12",
+        "director": "Cherice Casel",
+        "revenue": "$549837831.42"
+    },
+    {
+        "title": "He Ran All the Way",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Film-Noir"
+        ],
+        "year": "1969/05/22",
+        "director": "Omero Axel",
+        "revenue": "$296964366.50"
+    },
+    {
+        "title": "Miss and the Doctors (Tirez la langue, mademoiselle)",
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "year": "1995/07/23",
+        "director": "Ruprecht Ciccerale",
+        "revenue": "$730335394.66"
+    },
+    {
+        "title": "Hugo",
+        "genre": [
+            "Children",
+            "Drama",
+            "Mystery"
+        ],
+        "year": "1963/05/04",
+        "director": "Felix Ansteys",
+        "revenue": "$281571703.71"
+    },
+    {
+        "title": "Orphans",
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "year": "1984/03/04",
+        "director": "Maggie Prentice",
+        "revenue": "$667498678.09"
+    },
+    {
+        "title": "Mr. Wu",
+        "genre": "Drama",
+        "year": "2008/03/12",
+        "director": "Dulciana Seares",
+        "revenue": "$296896953.37"
+    },
+    {
+        "title": "No Strings Attached",
+        "genre": [
+            "Comedy",
+            "Romance"
+        ],
+        "year": "2001/03/25",
+        "director": "Deane Watford",
+        "revenue": "$941683740.09"
+    },
+    {
+        "title": "Atrocious",
+        "genre": [
+            "Horror",
+            "Thriller"
+        ],
+        "year": "2001/03/24",
+        "director": "Cobby Ruben",
+        "revenue": "$222331347.70"
+    },
+    {
+        "title": "Draft Day",
+        "genre": "Drama",
+        "year": "2012/10/04",
+        "director": "Rosy Risely",
+        "revenue": "$535627323.43"
+    },
+    {
+        "title": "Mon Paradis - Der Winterpalast",
+        "genre": "Documentary",
+        "year": "2014/10/04",
+        "director": "Shirleen Grzes",
+        "revenue": "$15098072.74"
+    },
+    {
+        "title": "Sorority Boys",
+        "genre": "Comedy",
+        "year": "1980/04/09",
+        "director": "Arron Sangwine",
+        "revenue": "$945527190.02"
+    },
+    {
+        "title": "Cat and the Canary, The",
+        "genre": [
+            "Horror",
+            "Mystery"
+        ],
+        "year": "2001/02/04",
+        "director": "Rosalind Udy",
+        "revenue": "$593302780.68"
+    },
+    {
+        "title": "Strange Cargo",
+        "genre": "Drama",
+        "year": "1991/11/28",
+        "director": "Aguistin Howett",
+        "revenue": "$474375483.80"
+    },
+    {
+        "title": "All Access",
+        "genre": [
+            "Documentary",
+            "Musical",
+            "IMAX"
+        ],
+        "year": "1992/11/03",
+        "director": "Caitrin Calderbank",
+        "revenue": "$778941519.46"
+    },
+    {
+        "title": "Bob & Carol & Ted & Alice",
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "year": "2011/12/11",
+        "director": "Phedra Beagin",
+        "revenue": "$528889094.31"
+    },
+    {
+        "title": "Two-Way Stretch",
+        "genre": [
+            "Comedy",
+            "Crime"
+        ],
+        "year": "2005/07/18",
+        "director": "Matthias Gasker",
+        "revenue": "$956127573.54"
+    },
+    {
+        "title": "Zoo",
+        "genre": "Documentary",
+        "year": "1978/06/06",
+        "director": "Beau Bedinham",
+        "revenue": "$871518779.03"
+    },
+    {
+        "title": "Tarzan's Magic Fountain",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Romance"
+        ],
+        "year": "1986/02/11",
+        "director": "Clea Spiaggia",
+        "revenue": "$960508269.52"
+    },
+    {
+        "title": "Gambit",
+        "genre": [
+            "Comedy",
+            "Crime"
+        ],
+        "year": "1985/06/03",
+        "director": "Clementina Lofts",
+        "revenue": "$11629446.96"
+    },
+    {
+        "title": "Appointment with Death",
+        "genre": [
+            "Crime",
+            "Mystery"
+        ],
+        "year": "2009/06/24",
+        "director": "Krystal Cameron",
+        "revenue": "$749123295.00"
+    },
+    {
+        "title": "Lucie Aubrac",
+        "genre": [
+            "Romance",
+            "War"
+        ],
+        "year": "2000/02/16",
+        "director": "Odo Dawid",
+        "revenue": "$31292140.88"
+    },
+    {
+        "title": "House of Wax",
+        "genre": [
+            "Horror",
+            "Thriller"
+        ],
+        "year": "1976/10/18",
+        "director": "Aldric Kassel",
+        "revenue": "$62390240.67"
+    },
+    {
+        "title": "River of Grass",
+        "genre": "Drama",
+        "year": "1991/11/04",
+        "director": "Holly-anne Canete",
+        "revenue": "$296705548.79"
+    },
+    {
+        "title": "Everything Relative",
+        "genre": "Drama",
+        "year": "1975/02/11",
+        "director": "Riobard Dutnall",
+        "revenue": "$362992012.46"
+    },
+    {
+        "title": "Mr. Pip",
+        "genre": [
+            "Drama",
+            "War"
+        ],
+        "year": "2008/06/19",
+        "director": "Wallis Pimm",
+        "revenue": "$864764767.22"
+    },
+    {
+        "title": "Mist, The",
+        "genre": [
+            "Horror",
+            "Sci-Fi"
+        ],
+        "year": "2013/12/13",
+        "director": "Ricki Hrus",
+        "revenue": "$357477287.16"
+    },
+    {
+        "title": "Code Name Coq Rouge",
+        "genre": "(no genres listed)",
+        "year": "1968/12/01",
+        "director": "Shalom Chestney",
+        "revenue": "$740830691.28"
+    },
+    {
+        "title": "Lord of the Rings: The Fellowship of the Ring, The",
+        "genre": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "year": "2015/06/06",
+        "director": "Ole Fletcher",
+        "revenue": "$508907777.70"
+    },
+    {
+        "title": "This Must Be the Place",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "year": "1983/10/21",
+        "director": "Abey M'cowis",
+        "revenue": "$289392456.77"
+    },
+    {
+        "title": "Watcher, The",
+        "genre": [
+            "Crime",
+            "Thriller"
+        ],
+        "year": "2002/11/24",
+        "director": "Thaxter Arthur",
+        "revenue": "$774285914.59"
+    },
+    {
+        "title": "Restless Natives",
+        "genre": [
+            "Adventure",
+            "Comedy",
+            "Drama"
+        ],
+        "year": "1978/03/28",
+        "director": "Yvonne Wyldbore",
+        "revenue": "$929530401.05"
+    },
+    {
+        "title": "Last Flight of Noah's Ark, The",
+        "genre": [
+            "Adventure",
+            "Children",
+            "Comedy"
+        ],
+        "year": "2013/02/13",
+        "director": "Mischa Conradsen",
+        "revenue": "$650552585.50"
+    },
+    {
+        "title": "Fear Island",
+        "genre": [
+            "Horror",
+            "Mystery",
+            "Thriller"
+        ],
+        "year": "1975/03/07",
+        "director": "Meg McGarvie",
+        "revenue": "$904791626.88"
+    },
+    {
+        "title": "ParaNorman",
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Comedy"
+        ],
+        "year": "1966/02/04",
+        "director": "Tiebout Chantrell",
+        "revenue": "$611909556.31"
+    },
+    {
+        "title": "Postman Always Rings Twice, The",
+        "genre": [
+            "Crime",
+            "Thriller"
+        ],
+        "year": "1993/05/20",
+        "director": "Tallia Joselovitch",
+        "revenue": "$384569420.99"
+    },
+    {
+        "title": "Palindromes",
+        "genre": [
+            "Adventure",
+            "Comedy",
+            "Drama"
+        ],
+        "year": "1965/05/08",
+        "director": "Perrine Hurrion",
+        "revenue": "$345610229.73"
+    },
+    {
+        "title": "Night Court",
+        "genre": [
+            "Crime",
+            "Film-Noir",
+            "Thriller"
+        ],
+        "year": "2010/04/13",
+        "director": "Flynn Dowman",
+        "revenue": "$552764440.22"
+    },
+    {
+        "title": "Letters to God",
+        "genre": [
+            "Children",
+            "Drama"
+        ],
+        "year": "1998/02/07",
+        "director": "Clo Imason",
+        "revenue": "$995504014.59"
+    },
+    {
+        "title": "Flirting With Disaster",
+        "genre": "Comedy",
+        "year": "1989/10/14",
+        "director": "Dasi Crane",
+        "revenue": "$271321353.47"
+    },
+    {
+        "title": "Rocks in my Pockets",
+        "genre": [
+            "Animation",
+            "Comedy",
+            "Drama"
+        ],
+        "year": "2008/02/22",
+        "director": "Edeline Karpenko",
+        "revenue": "$263869889.32"
+    },
+    {
+        "title": "Kitchen Stories (Salmer fra kjøkkenet)",
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "year": "1985/02/16",
+        "director": "Seymour Banbury",
+        "revenue": "$958655890.07"
+    }
+]

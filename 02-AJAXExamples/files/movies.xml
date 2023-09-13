@@ -1,0 +1,410 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<movies>
+    <movie>
+        <title>Grey Zone, The</title>
+        <genre>Drama</genre>
+        <genre>Suspense</genre>
+        <year>2000/06/22</year>
+        <director>Katy Hogben</director>
+        <revenue>$453206122.61</revenue>
+    </movie>
+    <movie>
+        <title>Dracula: Pages from a Virgin's Diary</title>
+        <genre>Mystery</genre>
+        <genre>Horror</genre>
+        <year>2002/05/08</year>
+        <director>Guthry Littrell</director>
+        <revenue>$985643745.00</revenue>
+    </movie>
+    <movie>
+        <title>Thieves (Voleurs, Les)</title>
+        <genre>Crime</genre>
+        <genre>Drama</genre>
+        <genre>Romance</genre>
+        <year>2015/04/23</year>
+        <director>Vally Ilyin</director>
+        <revenue>$178403080.22</revenue>
+    </movie>
+    <movie>
+        <title>The Fox and the Hound 2</title>
+        <genre>Adventure</genre>
+        <genre>Animation</genre>
+        <genre>Children</genre>
+        <genre>Comedy</genre>
+        <year>2007/06/29</year>
+        <director>Benn Pendrigh</director>
+        <revenue>$130655466.38</revenue>
+    </movie>
+    <movie>
+        <title>Anacondas: The Hunt for the Blood Orchid</title>
+        <genre>Adventure</genre>
+        <genre>Drama</genre>
+        <genre>Horror</genre>
+        <genre>Sci-Fi</genre>
+        <genre>Thriller</genre>
+        <year>2015/04/07</year>
+        <director>Bryan Fromant</director>
+        <revenue>$881221615.76</revenue>
+    </movie>
+    <movie>
+        <title>Porgy and Bess</title>
+        <genre>Drama</genre>
+        <genre>Musical</genre>
+        <genre>Romance</genre>
+        <year>1990/12/06</year>
+        <director>Loralee Skitt</director>
+        <revenue>$946894971.15</revenue>
+    </movie>
+    <movie>
+        <title>China Syndrome, The</title>
+        <genre>Drama</genre>
+        <genre>Thriller</genre>
+        <year>2003/02/09</year>
+        <director>Enriqueta Ashness</director>
+        <revenue>$388793911.03</revenue>
+    </movie>
+    <movie>
+        <title>West (Occident)</title>
+        <genre>Comedy</genre>
+        <year>2010/11/03</year>
+        <director>Bradley Souch</director>
+        <revenue>$525945991.97</revenue>
+    </movie>
+    <movie>
+        <title>Tevye</title>
+        <genre>Drama</genre>
+        <year>1998/10/01</year>
+        <director>Gage Langman</director>
+        <revenue>$276326935.09</revenue>
+    </movie>
+    <movie>
+        <title>Warning from Space (Uchûjin Tôkyô ni arawaru)</title>
+        <genre>Sci-Fi</genre>
+        <year>1965/09/12</year>
+        <director>Cherice Casel</director>
+        <revenue>$549837831.42</revenue>
+    </movie>
+    <movie>
+        <title>He Ran All the Way</title>
+        <genre>Crime</genre>
+        <genre>Drama</genre>
+        <genre>Film-Noir</genre>
+        <year>1969/05/22</year>
+        <director>Omero Axel</director>
+        <revenue>$296964366.50</revenue>
+    </movie>
+    <movie>
+        <title>Miss and the Doctors (Tirez la langue, mademoiselle)</title>
+        <genre>Drama</genre>
+        <genre>Romance</genre>
+        <year>1995/07/23</year>
+        <director>Ruprecht Ciccerale</director>
+        <revenue>$730335394.66</revenue>
+    </movie>
+    <movie>
+        <title>Hugo</title>
+        <genre>Children</genre>
+        <genre>Drama</genre>
+        <genre>Mystery</genre>
+        <year>1963/05/04</year>
+        <director>Felix Ansteys</director>
+        <revenue>$281571703.71</revenue>
+    </movie>
+    <movie>
+        <title>Orphans</title>
+        <genre>Comedy</genre>
+        <genre>Drama</genre>
+        <year>1984/03/04</year>
+        <director>Maggie Prentice</director>
+        <revenue>$667498678.09</revenue>
+    </movie>
+    <movie>
+        <title>Mr. Wu</title>
+        <genre>Drama</genre>
+        <year>2008/03/12</year>
+        <director>Dulciana Seares</director>
+        <revenue>$296896953.37</revenue>
+    </movie>
+    <movie>
+        <title>No Strings Attached</title>
+        <genre>Comedy</genre>
+        <genre>Romance</genre>
+        <year>2001/03/25</year>
+        <director>Deane Watford</director>
+        <revenue>$941683740.09</revenue>
+    </movie>
+    <movie>
+        <title>Atrocious</title>
+        <genre>Horror</genre>
+        <genre>Thriller</genre>
+        <year>2001/03/24</year>
+        <director>Cobby Ruben</director>
+        <revenue>$222331347.70</revenue>
+    </movie>
+    <movie>
+        <title>Draft Day</title>
+        <genre>Drama</genre>
+        <year>2012/10/04</year>
+        <director>Rosy Risely</director>
+        <revenue>$535627323.43</revenue>
+    </movie>
+    <movie>
+        <title>Mon Paradis - Der Winterpalast</title>
+        <genre>Documentary</genre>
+        <year>2014/10/04</year>
+        <director>Shirleen Grzes</director>
+        <revenue>$15098072.74</revenue>
+    </movie>
+    <movie>
+        <title>Sorority Boys</title>
+        <genre>Comedy</genre>
+        <year>1980/04/09</year>
+        <director>Arron Sangwine</director>
+        <revenue>$945527190.02</revenue>
+    </movie>
+    <movie>
+        <title>Cat and the Canary, The</title>
+        <genre>Horror</genre>
+        <genre>Mystery</genre>
+        <year>2001/02/04</year>
+        <director>Rosalind Udy</director>
+        <revenue>$593302780.68</revenue>
+    </movie>
+    <movie>
+        <title>Strange Cargo</title>
+        <genre>Drama</genre>
+        <year>1991/11/28</year>
+        <director>Aguistin Howett</director>
+        <revenue>$474375483.80</revenue>
+    </movie>
+    <movie>
+        <title>All Access</title>
+        <genre>Documentary</genre>
+        <genre>Musical</genre>
+        <genre>IMAX</genre>
+        <year>1992/11/03</year>
+        <director>Caitrin Calderbank</director>
+        <revenue>$778941519.46</revenue>
+    </movie>
+    <movie>
+        <title>Bob &amp; Carol &amp; Ted &amp; Alice</title>
+        <genre>Comedy</genre>
+        <genre>Drama</genre>
+        <year>2011/12/11</year>
+        <director>Phedra Beagin</director>
+        <revenue>$528889094.31</revenue>
+    </movie>
+    <movie>
+        <title>Two-Way Stretch</title>
+        <genre>Comedy</genre>
+        <genre>Crime</genre>
+        <year>2005/07/18</year>
+        <director>Matthias Gasker</director>
+        <revenue>$956127573.54</revenue>
+    </movie>
+    <movie>
+        <title>Zoo</title>
+        <genre>Documentary</genre>
+        <year>1978/06/06</year>
+        <director>Beau Bedinham</director>
+        <revenue>$871518779.03</revenue>
+    </movie>
+    <movie>
+        <title>Tarzan's Magic Fountain</title>
+        <genre>Action</genre>
+        <genre>Adventure</genre>
+        <genre>Fantasy</genre>
+        <genre>Romance</genre>
+        <year>1986/02/11</year>
+        <director>Clea Spiaggia</director>
+        <revenue>$960508269.52</revenue>
+    </movie>
+    <movie>
+        <title>Gambit</title>
+        <genre>Comedy</genre>
+        <genre>Crime</genre>
+        <year>1985/06/03</year>
+        <director>Clementina Lofts</director>
+        <revenue>$11629446.96</revenue>
+    </movie>
+    <movie>
+        <title>Appointment with Death</title>
+        <genre>Crime</genre>
+        <genre>Mystery</genre>
+        <year>2009/06/24</year>
+        <director>Krystal Cameron</director>
+        <revenue>$749123295.00</revenue>
+    </movie>
+    <movie>
+        <title>Lucie Aubrac</title>
+        <genre>Romance</genre>
+        <genre>War</genre>
+        <year>2000/02/16</year>
+        <director>Odo Dawid</director>
+        <revenue>$31292140.88</revenue>
+    </movie>
+    <movie>
+        <title>House of Wax</title>
+        <genre>Horror</genre>
+        <genre>Thriller</genre>
+        <year>1976/10/18</year>
+        <director>Aldric Kassel</director>
+        <revenue>$62390240.67</revenue>
+    </movie>
+    <movie>
+        <title>River of Grass</title>
+        <genre>Drama</genre>
+        <year>1991/11/04</year>
+        <director>Holly-anne Canete</director>
+        <revenue>$296705548.79</revenue>
+    </movie>
+    <movie>
+        <title>Everything Relative</title>
+        <genre>Drama</genre>
+        <year>1975/02/11</year>
+        <director>Riobard Dutnall</director>
+        <revenue>$362992012.46</revenue>
+    </movie>
+    <movie>
+        <title>Mr. Pip</title>
+        <genre>Drama</genre>
+        <genre>War</genre>
+        <year>2008/06/19</year>
+        <director>Wallis Pimm</director>
+        <revenue>$864764767.22</revenue>
+    </movie>
+    <movie>
+        <title>Mist, The</title>
+        <genre>Horror</genre>
+        <genre>Sci-Fi</genre>
+        <year>2013/12/13</year>
+        <director>Ricki Hrus</director>
+        <revenue>$357477287.16</revenue>
+    </movie>
+    <movie>
+        <title>Code Name Coq Rouge</title>
+        <genre>(no genres listed)</genre>
+        <year>1968/12/01</year>
+        <director>Shalom Chestney</director>
+        <revenue>$740830691.28</revenue>
+    </movie>
+    <movie>
+        <title>Lord of the Rings: The Fellowship of the Ring, The</title>
+        <genre>Adventure</genre>
+        <genre>Fantasy</genre>
+        <year>2015/06/06</year>
+        <director>Ole Fletcher</director>
+        <revenue>$508907777.70</revenue>
+    </movie>
+    <movie>
+        <title>This Must Be the Place</title>
+        <genre>Crime</genre>
+        <genre>Drama</genre>
+        <genre>Thriller</genre>
+        <year>1983/10/21</year>
+        <director>Abey M'cowis</director>
+        <revenue>$289392456.77</revenue>
+    </movie>
+    <movie>
+        <title>Watcher, The</title>
+        <genre>Crime</genre>
+        <genre>Thriller</genre>
+        <year>2002/11/24</year>
+        <director>Thaxter Arthur</director>
+        <revenue>$774285914.59</revenue>
+    </movie>
+    <movie>
+        <title>Restless Natives</title>
+        <genre>Adventure</genre>
+        <genre>Comedy</genre>
+        <genre>Drama</genre>
+        <year>1978/03/28</year>
+        <director>Yvonne Wyldbore</director>
+        <revenue>$929530401.05</revenue>
+    </movie>
+    <movie>
+        <title>Last Flight of Noah's Ark, The</title>
+        <genre>Adventure</genre>
+        <genre>Children</genre>
+        <genre>Comedy</genre>
+        <year>2013/02/13</year>
+        <director>Mischa Conradsen</director>
+        <revenue>$650552585.50</revenue>
+    </movie>
+    <movie>
+        <title>Fear Island</title>
+        <genre>Horror</genre>
+        <genre>Mystery</genre>
+        <genre>Thriller</genre>
+        <year>1975/03/07</year>
+        <director>Meg McGarvie</director>
+        <revenue>$904791626.88</revenue>
+    </movie>
+    <movie>
+        <title>ParaNorman</title>
+        <genre>Adventure</genre>
+        <genre>Animation</genre>
+        <genre>Comedy</genre>
+        <year>1966/02/04</year>
+        <director>Tiebout Chantrell</director>
+        <revenue>$611909556.31</revenue>
+    </movie>
+    <movie>
+        <title>Postman Always Rings Twice, The</title>
+        <genre>Crime</genre>
+        <genre>Thriller</genre>
+        <year>1993/05/20</year>
+        <director>Tallia Joselovitch</director>
+        <revenue>$384569420.99</revenue>
+    </movie>
+    <movie>
+        <title>Palindromes</title>
+        <genre>Adventure</genre>
+        <genre>Comedy</genre>
+        <genre>Drama</genre>
+        <year>1965/05/08</year>
+        <director>Perrine Hurrion</director>
+        <revenue>$345610229.73</revenue>
+    </movie>
+    <movie>
+        <title>Night Court</title>
+        <genre>Crime</genre>
+        <genre>Film-Noir</genre>
+        <genre>Thriller</genre>
+        <year>2010/04/13</year>
+        <director>Flynn Dowman</director>
+        <revenue>$552764440.22</revenue>
+    </movie>
+    <movie>
+        <title>Letters to God</title>
+        <genre>Children</genre>
+        <genre>Drama</genre>
+        <year>1998/02/07</year>
+        <director>Clo Imason</director>
+        <revenue>$995504014.59</revenue>
+    </movie>
+    <movie>
+        <title>Flirting With Disaster</title>
+        <genre>Comedy</genre>
+        <year>1989/10/14</year>
+        <director>Dasi Crane</director>
+        <revenue>$271321353.47</revenue>
+    </movie>
+    <movie>
+        <title>Rocks in my Pockets</title>
+        <genre>Animation</genre>
+        <genre>Comedy</genre>
+        <genre>Drama</genre>
+        <year>2008/02/22</year>
+        <director>Edeline Karpenko</director>
+        <revenue>$263869889.32</revenue>
+    </movie>
+    <movie>
+        <title>Kitchen Stories (Salmer fra kjøkkenet)</title>
+        <genre>Comedy</genre>
+        <genre>Drama</genre>
+        <year>1985/02/16</year>
+        <director>Seymour Banbury</director>
+        <revenue>$958655890.07</revenue>
+    </movie>
+</movies>
