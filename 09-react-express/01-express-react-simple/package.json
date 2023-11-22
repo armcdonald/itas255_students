@@ -1,0 +1,17 @@
+{
+  "name": "express-app",
+  "version": "0.0.1",
+  "description": "demo of express with react",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "allan mcdonald",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
