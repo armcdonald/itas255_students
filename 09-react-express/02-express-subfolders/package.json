@@ -1,0 +1,24 @@
+{
+  "name": "express-app2",
+  "version": "0.0.1",
+  "description": "express application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "author": "Allan McDonald",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "hbs": "^4.2.0",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.20",
+    "pug": "^3.0.2"
+  }
+}
