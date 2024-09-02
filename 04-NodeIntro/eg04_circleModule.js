@@ -1,1 +1,0 @@
-const myRadius = 4;
