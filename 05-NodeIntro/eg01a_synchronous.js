@@ -1,9 +1,7 @@
 const fs = require('fs');
 
-let data = fs.readdirSync('/Users/allan.mcdonald');
-console.log(`data:  ${data}
-
-`);
+let data = fs.readdirSync('add a directory here');
+console.log(`data:  ${data}`);
 
 console.log(`
 
