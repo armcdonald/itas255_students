@@ -8,3 +8,5 @@ ___
 5. NodeJS Intro examples
 6. Node Web SerServer examples
 7. Express examples
+
+Added sample server architecture to show what can be done when setting up an express server.
