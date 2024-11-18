@@ -8,5 +8,7 @@ ___
 5. NodeJS Intro examples
 6. Node Web SerServer examples
 7. Express examples
+8. React hooks examples
+9. React with express examples
 
 Added sample server architecture to show what can be done when setting up an express server.
